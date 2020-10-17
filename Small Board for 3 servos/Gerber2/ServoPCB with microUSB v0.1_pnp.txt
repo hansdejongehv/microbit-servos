@@ -1,0 +1,57 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ServoPCB with microUSB v0.1
+*Date=23:35:19
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;12.5044;-37.7238;0;Bottom;TXT2
+2;;;12.5044;-35.243;0;Bottom;TXT1
+3;;;12.7262;-12.8646;0;Bottom;TXT3
+4;;THT;1.91177;-7.64666;-90;Bottom;J30
+5;;THT;10.2362;-35.5867;180;Bottom;J4
+6;;;1.98768;-5.2545;0;Bottom;TXT3
+7;;;12.5044;-30.0402;0;Bottom;TXT7
+8;;;14.3447;-35.5559;-90;Bottom;TXT8
+9;;THT;9.82726;-8.13405;180;Bottom;J34
+10;;;8.03011;-45.9587;0;Bottom;TXT10
+11;;;5.09887;-42.8732;0;Bottom;TXT9
+12;;;2.66219;-12.9417;0;Bottom;TXT3
+13;;;0.740706;-40.6573;0;Bottom;TXT9
+14;;;8.99314;-42.9362;0;Bottom;TXT10
+15;;;0.740424;-38.0339;0;Bottom;TXT9
+16;;;12.5389;-32.6933;0;Bottom;TXT3
+17;;THT;6.4262;-27.9667;-90;Bottom;J10
+18;;THT;7.6962;-15.2667;-90;Bottom;J29
+19;;;7.82016;-44.8561;0;Bottom;TXT10
+20;;;1.84572;-11.3513;0;Bottom;TXT3
+21;;;7.56662;-9.29903;90;Bottom;TXT3
+22;;THT;6.4262;-25.4267;-90;Bottom;J9
+23;;;12.7762;-20.3467;0;Bottom;Hole1
+24;;;0.706005;-30.3848;0;Bottom;TXT9
+25;;THT;5.1562;-11.0652;180;Bottom;J35
+26;;;0.706005;-32.8656;0;Bottom;TXT9
+27;;THT;2.6162;-35.5867;180;Bottom;J13
+28;;;14.2952;-30.3971;-90;Bottom;TXT12
+29;;;2.61629;-45.7467;0;Bottom;Hole3
+30;;;14.1383;-33.191;-90;Bottom;TXT12
+31;;THT;13.4806;-7.64666;-90;Bottom;J31
+32;;;7.80466;-20.2943;0;Bottom;TXT11
+33;;;0.745798;-35.4153;0;Bottom;TXT9
+34;;;10.2303;-22.5632;0;Bottom;TXT5
+35;;THT;5.1562;-35.5867;180;Bottom;J12
+36;;;7.83994;-1.64963;0;Bottom;TXT3
+37;;THT;5.1562;-5.10666;180;Bottom;J36
+38;;;2.61619;-20.3467;0;Bottom;Hole2
+39;;;2.54677;-22.5979;0;Bottom;TXT4
+40;;;6.49946;-22.6633;0;Bottom;TXT6
+41;;THT;7.6962;-35.5867;180;Bottom;J11
+42;;;12.7763;-45.7467;0;Bottom;Hole4

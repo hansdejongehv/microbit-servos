@@ -1,0 +1,72 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ServoPCB with microUSB and power regulator v0.2
+*Date=00:06:04
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;6.24755;-5.17198;180;Bottom;J36
+2;;THT;6.24755;-35.652;180;Bottom;J12
+3;;THT;7.51755;-24.222;-90;Bottom;J9
+4;;;13.6302;-32.7586;0;Bottom;TXT3
+5;;;12.4681;-17.5612;0;Bottom;TXT3
+6;;;8.01874;-9.36435;90;Bottom;TXT3
+7;;;9.04304;-42.4453;0;Bottom;TXT10
+8;;;3.07903;-5.31982;0;Bottom;TXT3
+9;;;13.5958;-35.3083;0;Bottom;TXT1
+10;;;1.49714;-29.7077;0;Bottom;TXT9
+11;;;13.5958;-37.7891;0;Bottom;TXT2
+12;;;1.5883;-35.3402;0;Bottom;TXT9
+13;;;1.5883;-34.4328;0;Bottom;TXT9
+14;;;13.5958;-30.1055;0;Bottom;TXT7
+15;;;8.81778;-47.6079;0;Bottom;TXT3
+16;;;1.64043;-36.1845;0;Bottom;TXT9
+17;;THT;10.9186;-8.19937;180;Bottom;J34
+18;;THT;7.51755;-26.762;-90;Bottom;J10
+19;;;8.89295;-28.6756;0;Bottom;TXT10
+20;;THT;6.24755;-11.1305;180;Bottom;J35
+21;;;2.43764;-2.63189;0;Bottom;Hole6
+22;;;14.5026;-55.337;0;Bottom;Hole4
+23;;;2.43764;-55.337;0;Bottom;Hole3
+24;;;15.2297;-33.2563;-90;Bottom;TXT12
+25;;;14.5026;-2.63189;0;Bottom;Hole5
+26;;;5.03201;-17.6075;0;Bottom;TXT3
+27;;;2.43764;-19.1419;0;Bottom;Hole2
+28;;;11.2055;-21.5096;0;Bottom;TXT5
+29;;;1.49714;-38.018;0;Bottom;TXT9
+30;;THT;8.78755;-44.542;90;Bottom;J37
+31;;THT;14.572;-7.71198;-90;Bottom;J31
+32;;;7.80696;-21.5876;0;Bottom;TXT6
+33;;;14.5026;-19.1419;0;Bottom;Hole1
+34;;;1.49714;-33.2419;0;Bottom;TXT9
+35;;THT;3.70755;-35.652;180;Bottom;J13
+36;;;1.49714;-40.2382;0;Bottom;TXT9
+37;;THT;11.3276;-35.652;180;Bottom;J4
+38;;;3.52197;-21.5443;0;Bottom;TXT4
+39;;;1.49714;-37.1461;0;Bottom;TXT9
+40;;;8.44868;-46.2585;0;Bottom;TXT10
+41;;;1.49714;-41.1286;0;Bottom;TXT9
+42;;;8.19153;-49.7976;0;Bottom;TXT3
+43;;;8.19174;-53.5461;0;Bottom;TXT3
+44;;;12.1419;-12.2376;0;Bottom;TXT3
+45;;;8.19165;-55.0067;0;Bottom;TXT3
+46;;;8.89601;-20.3596;0;Bottom;TXT11
+47;;THT;3.00313;-7.71198;-90;Bottom;J30
+48;;;1.49714;-32.3515;0;Bottom;TXT9
+49;;THT;8.78755;-35.652;180;Bottom;J11
+50;;;8.9313;-1.07572;0;Bottom;TXT3
+51;;;15.3865;-30.4624;-90;Bottom;TXT12
+52;;;15.436;-35.6212;-90;Bottom;TXT8
+53;;THT;8.78755;-15.332;-90;Bottom;J29
+54;;;2.93707;-11.4167;0;Bottom;TXT3
+55;;;14.5167;-40.6035;0;Bottom;TXT10
+56;;;1.46223;-30.5997;0;Bottom;TXT9
+57;;;1.54927;-38.8977;0;Bottom;TXT9
