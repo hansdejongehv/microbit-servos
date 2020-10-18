@@ -1,4 +1,364 @@
 /* desktop view start */ 
+.eigen-pcb2 .ttr_eigen-pcb2_html_row0, .ttr_eigen-pcb2_html_row0
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;}
+.eigen-pcb2 .ttr_eigen-pcb2_html_column00, .ttr_eigen-pcb2_html_column00
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;padding:0 5px 0 5px;
+word-wrap:break-word;
+box-sizing: border-box;
+overflow: hidden;
+}
+.eigen-pcb2 .ttr_eigen-pcb2_html_column01, .ttr_eigen-pcb2_html_column01
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;padding:0 5px 0 5px;
+word-wrap:break-word;
+box-sizing: border-box;
+overflow: hidden;
+}
+.eigen-pcb2 .ttr_eigen-pcb2_html_column02, .ttr_eigen-pcb2_html_column02
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;padding:0 5px 0 5px;
+word-wrap:break-word;
+box-sizing: border-box;
+overflow: hidden;
+}
+.eigen-pcb2 .ttr_eigen-pcb2_html_column03, .ttr_eigen-pcb2_html_column03
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;padding:0 5px 0 5px;
+word-wrap:break-word;
+box-sizing: border-box;
+overflow: hidden;
+}
+.eigen-pcb2 .ttr_eigen-pcb2_html_row1, .ttr_eigen-pcb2_html_row1
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;}
+.eigen-pcb2 .ttr_eigen-pcb2_html_column10, .ttr_eigen-pcb2_html_column10
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;padding:0 5px 0 5px;
+word-wrap:break-word;
+box-sizing: border-box;
+overflow: hidden;
+}
+.eigen-pcb2 .ttr_eigen-pcb2_html_column11, .ttr_eigen-pcb2_html_column11
+{
+border-radius:0 0 0 0;
+border:solid transparent;
+border-width: 0 0 0 0;
+box-shadow:none;background-color:transparent;
+background:rgba(255,255,255,0);
+background-clip:padding-box;padding:0 5px 0 5px;
+word-wrap:break-word;
+box-sizing: border-box;
+overflow: hidden;
+}
+.eigen-pcb2 .ttr_header_logo a:first-child, .eigen-pcb2 .ttr_header_logo a:last-child{
+display: inline-block;}
+.eigen-pcb2 .ttr_menu_logo_text 
+{
+display:none;}
+.eigen-pcb2 .ttr_slideshow_logo img 
+{
+display:inline;}
+.eigen-pcb2 .ttr_slideshow_logo_text 
+{
+display:none;}
+@media only screen
+and (min-width:992px) 
+{
+.eigen-pcb2 .ttr_menu_items  li:hover ul.child li a
+{
+display:block;
+}
+}
+.eigen-pcb2 #ttr_slideshow_inner ul
+{
+list-style: outside none none;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner 
+{
+position:relative;
+overflow:hidden;
+width:auto;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner ul > li > a 
+{
+position:absolute;
+overflow:hidden;
+width:100%;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner > ul > li
+{
+position:absolute;
+
+}
+@media only screen and (min-width:1200px) 
+{
+.eigen-pcb2 .ttr_slideshow_element_alignment.container 
+{
+width:100%;
+}
+}
+@media only screen
+and (min-width:992px) 
+{
+.eigen-pcb2 .ttr_vmenu_items .child.dropdown-menu > li.show > ul,.eigen-pcb2 .ttr_vmenu_items .child.dropdown-menu > li.show > ul li.show > ul 
+{
+display:block;
+left:100%;
+}
+.eigen-pcb2 ul.ttr_vmenu_items.nav li.dropdown:hover ul.collapse 
+{
+display:block;
+list-style:none;
+}
+.eigen-pcb2 ul.ttr_vmenu_items.nav li.dropdown:hover ul.collapse li 
+{
+list-style:none;
+}
+.eigen-pcb2 .ttr_verticalmenu .nav-pills li.dropdown:hover
+{
+display:block;
+}
+.eigen-pcb2 .ttr_vmenu_items .menu-dropdown-styles li:hover .sub-menu 
+{
+visibility: visible;
+}
+}
+@media only screen
+and (min-width : 768px)
+{
+.eigen-pcb2 ul.ttr_vmenu_items.nav li.dropdown ul.dropdown-menu 
+{
+left:100%;
+list-style:none;
+}
+.eigen-pcb2 #ttr_sidebar_right ul.ttr_vmenu_items.nav li.dropdown ul.dropdown-menu 
+{
+left:auto;
+right:100%;
+}
+.eigen-pcb2 ul.ttr_vmenu_items.nav ul li.dropdown-submenu.show > ul 
+{
+display: block;
+visibility: visible;
+list-style:none;
+}
+.eigen-pcb2 ul.ttr_vmenu_items.nav ul 
+{
+left:100%;
+list-style:none;
+}
+.eigen-pcb2 .dropdown-submenu.show > ul 
+{
+display: block;
+visibility: visible;
+}
+
+}
+.eigen-pcb2 .nav-pills
+{
+padding:0;
+ list-style:none;
+text-align:left;
+display:block;
+background:none;
+z-index:500;
+zoom:1;
+}
+.eigen-pcb2 #ttr_content 
+{
+width: 100%;
+clear: none;
+}
+@media (min-width : 992px)
+
+{
+.eigen-pcb2 #ttr_content 
+{
+width: 100%;
+}
+}
+/* desktop view end */
+
+/* tablet view start */
+@media only screen
+and (min-width : 768px)
+and (max-width : 991px) 
+{
+.eigen-pcb2 .ttr_header_logo a:first-child, .eigen-pcb2 .ttr_header_logo a:last-child{
+display: inline-block;}
+.eigen-pcb2 .ttr_menu_logo_text 
+{
+display:none;}
+.eigen-pcb2 .ttr_slideshow_logo img 
+{
+display:inline;}
+.eigen-pcb2 .ttr_slideshow_logo_text 
+{
+display:none;}
+.eigen-pcb2 .ttr_slideshow
+{
+display: block;
+}
+.eigen-pcb2 .ttr_slideshow
+{
+width: auto;
+max-width: 100%;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner ul
+{
+list-style: outside none none;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner 
+{
+position:relative;
+overflow:hidden;
+width:auto;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner ul > li > a 
+{
+position:absolute;
+overflow:hidden;
+width:100%;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner > ul > li
+{
+position:absolute;
+
+}
+.eigen-pcb2 .ttr_slideshow_element_alignment.container 
+{
+width:100%;
+}
+.eigen-pcb2 #ttr_content 
+{
+width: 100%;
+clear: none;
+}
+.eigen-pcb2 #ttr_sidebar_left 
+{
+width: 0%;
+}
+.eigen-pcb2 #ttr_content 
+{
+width: 100%;
+}
+.eigen-pcb2 #ttr_sidebar_right 
+{
+width: 0%;
+}
+}
+/* tablet view end */
+
+/* mobile view start */
+@media only screen
+and (max-width : 767px)
+{
+.eigen-pcb2 .ttr_header_logo a:first-child, .eigen-pcb2 .ttr_header_logo a:last-child{
+display: inline-block;}
+.eigen-pcb2 .ttr_menu_logo_text 
+{
+display:none;}
+.eigen-pcb2 .ttr_slideshow_logo img 
+{
+display:inline;}
+.eigen-pcb2 .ttr_slideshow_logo_text 
+{
+display:none;}
+.eigen-pcb2 .ttr_slideshow
+{
+display: block;
+}
+.eigen-pcb2 .ttr_slideshow
+{
+width: auto;
+max-width: 100%;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner ul
+{
+list-style: outside none none;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner 
+{
+position:relative;
+overflow:hidden;
+width:auto;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner ul > li > a 
+{
+position:absolute;
+overflow:hidden;
+width:100%;
+
+}
+.eigen-pcb2 #ttr_slideshow_inner > ul > li
+{
+position:absolute;
+
+}
+.eigen-pcb2 .ttr_slideshow_element_alignment.container 
+{
+width:100%;
+}
+.eigen-pcb2 #ttr_content 
+{
+width: 100%;
+clear: none;
+}
+.eigen-pcb2 ul.ttr_vmenu_items.nav .dropdown-menu > li,.eigen-pcb2 .ttr_vmenu_items li ul.child li a 
+{
+ display: block;
+}
+}
+/* mobile view end */
+
+/* desktop view start */ 
 .demoopstelling .ttr_demoopstelling_html_row0, .ttr_demoopstelling_html_row0
 {
 border-radius:0 0 0 0;
@@ -1095,30 +1455,6 @@ word-wrap:break-word;
 box-sizing: border-box;
 overflow: hidden;
 }
-.eigenpcb4 .ttr_eigenpcb4_html_column12, .ttr_eigenpcb4_html_column12
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb4 .ttr_eigenpcb4_html_column13, .ttr_eigenpcb4_html_column13
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
 .eigenpcb4 .ttr_header_logo a:first-child, .eigenpcb4 .ttr_header_logo a:last-child{
 display: inline-block;}
 .eigenpcb4 .ttr_menu_logo_text 
@@ -1751,390 +2087,6 @@ clear: none;
 /* mobile view end */
 
 /* desktop view start */ 
-.eigenpcb2 .ttr_eigenpcb2_html_row0, .ttr_eigenpcb2_html_row0
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;}
-.eigenpcb2 .ttr_eigenpcb2_html_column00, .ttr_eigenpcb2_html_column00
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_column01, .ttr_eigenpcb2_html_column01
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_column02, .ttr_eigenpcb2_html_column02
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_column03, .ttr_eigenpcb2_html_column03
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_row1, .ttr_eigenpcb2_html_row1
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;}
-.eigenpcb2 .ttr_eigenpcb2_html_column10, .ttr_eigenpcb2_html_column10
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_column11, .ttr_eigenpcb2_html_column11
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_column12, .ttr_eigenpcb2_html_column12
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_eigenpcb2_html_column13, .ttr_eigenpcb2_html_column13
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb2 .ttr_header_logo a:first-child, .eigenpcb2 .ttr_header_logo a:last-child{
-display: inline-block;}
-.eigenpcb2 .ttr_menu_logo_text 
-{
-display:none;}
-.eigenpcb2 .ttr_slideshow_logo img 
-{
-display:inline;}
-.eigenpcb2 .ttr_slideshow_logo_text 
-{
-display:none;}
-@media only screen
-and (min-width:992px) 
-{
-.eigenpcb2 .ttr_menu_items  li:hover ul.child li a
-{
-display:block;
-}
-}
-.eigenpcb2 #ttr_slideshow_inner ul
-{
-list-style: outside none none;
-
-}
-.eigenpcb2 #ttr_slideshow_inner 
-{
-position:relative;
-overflow:hidden;
-width:auto;
-
-}
-.eigenpcb2 #ttr_slideshow_inner ul > li > a 
-{
-position:absolute;
-overflow:hidden;
-width:100%;
-
-}
-.eigenpcb2 #ttr_slideshow_inner > ul > li
-{
-position:absolute;
-
-}
-@media only screen and (min-width:1200px) 
-{
-.eigenpcb2 .ttr_slideshow_element_alignment.container 
-{
-width:100%;
-}
-}
-@media only screen
-and (min-width:992px) 
-{
-.eigenpcb2 .ttr_vmenu_items .child.dropdown-menu > li.show > ul,.eigenpcb2 .ttr_vmenu_items .child.dropdown-menu > li.show > ul li.show > ul 
-{
-display:block;
-left:100%;
-}
-.eigenpcb2 ul.ttr_vmenu_items.nav li.dropdown:hover ul.collapse 
-{
-display:block;
-list-style:none;
-}
-.eigenpcb2 ul.ttr_vmenu_items.nav li.dropdown:hover ul.collapse li 
-{
-list-style:none;
-}
-.eigenpcb2 .ttr_verticalmenu .nav-pills li.dropdown:hover
-{
-display:block;
-}
-.eigenpcb2 .ttr_vmenu_items .menu-dropdown-styles li:hover .sub-menu 
-{
-visibility: visible;
-}
-}
-@media only screen
-and (min-width : 768px)
-{
-.eigenpcb2 ul.ttr_vmenu_items.nav li.dropdown ul.dropdown-menu 
-{
-left:100%;
-list-style:none;
-}
-.eigenpcb2 #ttr_sidebar_right ul.ttr_vmenu_items.nav li.dropdown ul.dropdown-menu 
-{
-left:auto;
-right:100%;
-}
-.eigenpcb2 ul.ttr_vmenu_items.nav ul li.dropdown-submenu.show > ul 
-{
-display: block;
-visibility: visible;
-list-style:none;
-}
-.eigenpcb2 ul.ttr_vmenu_items.nav ul 
-{
-left:100%;
-list-style:none;
-}
-.eigenpcb2 .dropdown-submenu.show > ul 
-{
-display: block;
-visibility: visible;
-}
-
-}
-.eigenpcb2 .nav-pills
-{
-padding:0;
- list-style:none;
-text-align:left;
-display:block;
-background:none;
-z-index:500;
-zoom:1;
-}
-.eigenpcb2 #ttr_content 
-{
-width: 100%;
-clear: none;
-}
-@media (min-width : 992px)
-
-{
-.eigenpcb2 #ttr_content 
-{
-width: 100%;
-}
-}
-/* desktop view end */
-
-/* tablet view start */
-@media only screen
-and (min-width : 768px)
-and (max-width : 991px) 
-{
-.eigenpcb2 .ttr_header_logo a:first-child, .eigenpcb2 .ttr_header_logo a:last-child{
-display: inline-block;}
-.eigenpcb2 .ttr_menu_logo_text 
-{
-display:none;}
-.eigenpcb2 .ttr_slideshow_logo img 
-{
-display:inline;}
-.eigenpcb2 .ttr_slideshow_logo_text 
-{
-display:none;}
-.eigenpcb2 .ttr_slideshow
-{
-display: block;
-}
-.eigenpcb2 .ttr_slideshow
-{
-width: auto;
-max-width: 100%;
-
-}
-.eigenpcb2 #ttr_slideshow_inner ul
-{
-list-style: outside none none;
-
-}
-.eigenpcb2 #ttr_slideshow_inner 
-{
-position:relative;
-overflow:hidden;
-width:auto;
-
-}
-.eigenpcb2 #ttr_slideshow_inner ul > li > a 
-{
-position:absolute;
-overflow:hidden;
-width:100%;
-
-}
-.eigenpcb2 #ttr_slideshow_inner > ul > li
-{
-position:absolute;
-
-}
-.eigenpcb2 .ttr_slideshow_element_alignment.container 
-{
-width:100%;
-}
-.eigenpcb2 #ttr_content 
-{
-width: 100%;
-clear: none;
-}
-.eigenpcb2 #ttr_sidebar_left 
-{
-width: 0%;
-}
-.eigenpcb2 #ttr_content 
-{
-width: 100%;
-}
-.eigenpcb2 #ttr_sidebar_right 
-{
-width: 0%;
-}
-}
-/* tablet view end */
-
-/* mobile view start */
-@media only screen
-and (max-width : 767px)
-{
-.eigenpcb2 .ttr_header_logo a:first-child, .eigenpcb2 .ttr_header_logo a:last-child{
-display: inline-block;}
-.eigenpcb2 .ttr_menu_logo_text 
-{
-display:none;}
-.eigenpcb2 .ttr_slideshow_logo img 
-{
-display:inline;}
-.eigenpcb2 .ttr_slideshow_logo_text 
-{
-display:none;}
-.eigenpcb2 .ttr_slideshow
-{
-display: block;
-}
-.eigenpcb2 .ttr_slideshow
-{
-width: auto;
-max-width: 100%;
-
-}
-.eigenpcb2 #ttr_slideshow_inner ul
-{
-list-style: outside none none;
-
-}
-.eigenpcb2 #ttr_slideshow_inner 
-{
-position:relative;
-overflow:hidden;
-width:auto;
-
-}
-.eigenpcb2 #ttr_slideshow_inner ul > li > a 
-{
-position:absolute;
-overflow:hidden;
-width:100%;
-
-}
-.eigenpcb2 #ttr_slideshow_inner > ul > li
-{
-position:absolute;
-
-}
-.eigenpcb2 .ttr_slideshow_element_alignment.container 
-{
-width:100%;
-}
-.eigenpcb2 #ttr_content 
-{
-width: 100%;
-clear: none;
-}
-.eigenpcb2 ul.ttr_vmenu_items.nav .dropdown-menu > li,.eigenpcb2 .ttr_vmenu_items li ul.child li a 
-{
- display: block;
-}
-}
-/* mobile view end */
-
-/* desktop view start */ 
 .eigenpcb3 .ttr_eigenpcb3_html_row0, .ttr_eigenpcb3_html_row0
 {
 border-radius:0 0 0 0;
@@ -2212,30 +2164,6 @@ box-sizing: border-box;
 overflow: hidden;
 }
 .eigenpcb3 .ttr_eigenpcb3_html_column11, .ttr_eigenpcb3_html_column11
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb3 .ttr_eigenpcb3_html_column12, .ttr_eigenpcb3_html_column12
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb3 .ttr_eigenpcb3_html_column13, .ttr_eigenpcb3_html_column13
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -2596,30 +2524,6 @@ box-sizing: border-box;
 overflow: hidden;
 }
 .eigenpcb1 .ttr_eigenpcb1_html_column11, .ttr_eigenpcb1_html_column11
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb1 .ttr_eigenpcb1_html_column12, .ttr_eigenpcb1_html_column12
-{
-border-radius:0 0 0 0;
-border:solid transparent;
-border-width: 0 0 0 0;
-box-shadow:none;background-color:transparent;
-background:rgba(255,255,255,0);
-background-clip:padding-box;padding:0 5px 0 5px;
-word-wrap:break-word;
-box-sizing: border-box;
-overflow: hidden;
-}
-.eigenpcb1 .ttr_eigenpcb1_html_column13, .ttr_eigenpcb1_html_column13
 {
 border-radius:0 0 0 0;
 border:solid transparent;
@@ -7031,7 +6935,7 @@ text-indent: 0;
 }
 body:not(.ttr_ecommerce)  #ttr_content ul, .editor-styles-wrapper ul
 {
-list-style-image:url(images/1792206508listimg.png);
+list-style-image:url(images/1711954854listimg.png);
 }
 body:not(.ttr_ecommerce)  #ttr_content ul li, .html_content ul li, .html_content ul li p, .ttr_block .html_content ul li p, .html_content ul li h1, .html_content ul li h2, .html_content ul li h3, .html_content ul li h4, .html_content ul li h5, .html_content ul li h6,  footer#ttr_footer .html_content ul li h1,  footer#ttr_footer .html_content ul li h2,  footer#ttr_footer .html_content ul li h3,  footer#ttr_footer .html_content ul li h4,  footer#ttr_footer .html_content ul li h5,  footer#ttr_footer .html_content ul li h6
 {
