@@ -212,7 +212,7 @@ Spanning
 </h1>
 <div class="margin_collapsetop"></div>
 <div class="ttr_spanning_html_row0 row" >
-<div class="post_column col-xl-6 col-lg-6 col-md-3 col-sm-3 col-xs-3 col-3">
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
 <div class="ttr_spanning_html_column00">
 <div class="margin_collapsetop"></div>
 <div class="html_content"><br /><h2><span>Wat voor spanning heeft een SG90 servo nodig?</span></h2><br /><p style="line-height:1.9em;"><span style="font-size:1.286em;">De meest volledige specificiatie die te vinden was is van de FS90, Dat is een servo die vergelijkbaar is met SG90.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De specificatie is hier te vinden: </span><a href="https://www.addicore.com/FS90-Mini-Servo-p/AD113.htm" class="tt_link" target="_blank"><span style="font-size:1.286em;">https://www.addicore.com/FS90-Mini-Servo-p/AD113.htm</span></a><span style="font-size:1.286em;">. De specificatie staat hiernaast.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De spanning is 4,8 V tot 6 V. Duidelijk is dat de 3 V die de micro:bit kan leveren onvoldoende is.</span></p><p style="line-height:1.9em;"><br style="font-size:1.286em;" /></p><p style="line-height:3.11em;"><span style="font-size:2.143em;color:rgba(105,105,105,1);">Stroom</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De FS90 kan tussen de 700 mA en 800 mA nemen. Dat is de stroom die gevraagd wordt als de servo geblokkeerd wordt (Stall Current). We nemen aan dat dat ook geldt voor de FS90.</span></p><p style="line-height:1.9em;"><a href="https://tech.microbit.org/hardware/powersupply/" class="tt_link" target="_self"><span style="font-size:1.286em;">Hier </span></a><span style="font-size:1.286em;">zien we dat de micro:bit v1 tot 90 mA kan leveren. De micro:bit v2 kan tot 270 mA leveren, maar dit is dus ook nog te weinig voor een servo die flink belast wordt.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Dus de servo's moeten echt op een andere manier gevoed worden.</span></p><p><br /></p><p style="line-height:2.91em;"><span style="font-size:2em;color:rgba(131,131,131,1);">Maar de servo heeft nog steeds verbinding met de micro:bit en er zal dus een stroom lopen</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Dat klopt. Het is daarom goed om te bedenken hoe een servo werkt. De energie om het motortje van de servo te laten bewegen wordt getrokken uit de + draad en die loopt via de - draad weer weg. Daar wordt de grote stroom getrokken. </span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Als de micro:bit de servo wil laten bewegen, dan zal die een serie pulsjes naar de servo sturen. De breedte (tijd) van de pulsjes bepaalt in welke hoek de servo moet komen te staan. De signaaldraad vanaf de micro wordt dus alleen gebruikt voor dataoverdracht, niet voor het leveren van energie. De stroom die daarvoor nodig is, is heel klein.</span></p></div>
@@ -220,7 +220,8 @@ Spanning
 <div style="clear:both;width:0px;"></div>
 </div>
 </div>
-<div class="post_column col-xl-6 col-lg-6 col-md-3 col-sm-3 col-xs-3 col-3">
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
 <div class="ttr_spanning_html_column01">
 <div class="margin_collapsetop"></div>
 <div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:979px;max-width:509px;margin:0px 0px 0px 0px;" src="images/fs90.png" alt="n" /></span></span><span>Specificatie van de FS90 servo</span></p></div>
@@ -228,10 +229,10 @@ Spanning
 <div style="clear:both;width:0px;"></div>
 </div>
 </div>
-<div class=" visible-lg-block d-xl-block d-lg-block" style="clear: both;width:0px;"></div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
 </div>
 <div class="ttr_spanning_html_row1 row" >
-<div class="post_column col-xl-6 col-lg-6 col-md-3 col-sm-3 col-xs-3 col-3">
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6 col-6">
 <div class="ttr_spanning_html_column10">
 <div class="margin_collapsetop"></div>
 <div class="html_content"><br /><h2><span><a href="index.html" target="_self" class="btn btn-md btn-default">Start</a></span></h2></div>
@@ -239,7 +240,7 @@ Spanning
 <div style="clear:both;width:0px;"></div>
 </div>
 </div>
-<div class="post_column col-xl-6 col-lg-6 col-md-3 col-sm-3 col-xs-3 col-3">
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-6 col-xs-6 col-6">
 <div class="ttr_spanning_html_column11">
 <div class="margin_collapsetop"></div>
 <div class="html_content"><br /><h2 style="text-align:Right;"><span><a href="voeding.html" target="_self" class="btn btn-md btn-default">Voeding</a></span></h2></div>
@@ -247,7 +248,7 @@ Spanning
 <div style="clear:both;width:0px;"></div>
 </div>
 </div>
-<div class=" visible-lg-block d-xl-block d-lg-block" style="clear: both;width:0px;"></div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
 </div>
 <div class="margin_collapsetop"></div>
 </div><!--content_margin-->
