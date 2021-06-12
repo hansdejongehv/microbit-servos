@@ -284,6 +284,27 @@ display:inline;}
 .eigen-pcb2 .ttr_slideshow_logo_text 
 {
 display:none;}
+.eigen-pcb2 ul.ttr_menu_items.nav .dropdown-submenu.show > ul 
+{
+display:block;
+visibility:visible;
+}
+.eigen-pcb2 .ttr_menu_items .child.dropdown-menu .sub-menu 
+{
+display: none;
+right: 100%;
+ top: 0;
+list-style: none outside none;
+position: absolute;
+}
+.eigen-pcb2 .ttr_menu_items .dropdown-menu li:hover .sub-menu 
+{
+visibility: visible;
+}
+.eigen-pcb2 .navbar-default .ttr_menu_items.nav   li ul.child > li > a 
+{
+float:left;
+}
 .eigen-pcb2 .ttr_slideshow
 {
 display: block;
@@ -321,6 +342,10 @@ position:absolute;
 .eigen-pcb2 .ttr_slideshow_element_alignment.container 
 {
 width:100%;
+}
+.eigen-pcb2 .navbar-default .ttr_vmenu_items.nav   li ul.child > li > a 
+{
+float:left;
 }
 .eigen-pcb2 #ttr_content 
 {
@@ -1703,6 +1728,27 @@ display:inline;}
 .eigenpcb4 .ttr_slideshow_logo_text 
 {
 display:none;}
+.eigenpcb4 ul.ttr_menu_items.nav .dropdown-submenu.show > ul 
+{
+display:block;
+visibility:visible;
+}
+.eigenpcb4 .ttr_menu_items .child.dropdown-menu .sub-menu 
+{
+display: none;
+right: 100%;
+ top: 0;
+list-style: none outside none;
+position: absolute;
+}
+.eigenpcb4 .ttr_menu_items .dropdown-menu li:hover .sub-menu 
+{
+visibility: visible;
+}
+.eigenpcb4 .navbar-default .ttr_menu_items.nav   li ul.child > li > a 
+{
+float:left;
+}
 .eigenpcb4 .ttr_slideshow
 {
 display: block;
@@ -1740,6 +1786,10 @@ position:absolute;
 .eigenpcb4 .ttr_slideshow_element_alignment.container 
 {
 width:100%;
+}
+.eigenpcb4 .navbar-default .ttr_vmenu_items.nav   li ul.child > li > a 
+{
+float:left;
 }
 .eigenpcb4 #ttr_content 
 {
@@ -2400,6 +2450,27 @@ display:inline;}
 .eigenpcb3 .ttr_slideshow_logo_text 
 {
 display:none;}
+.eigenpcb3 ul.ttr_menu_items.nav .dropdown-submenu.show > ul 
+{
+display:block;
+visibility:visible;
+}
+.eigenpcb3 .ttr_menu_items .child.dropdown-menu .sub-menu 
+{
+display: none;
+right: 100%;
+ top: 0;
+list-style: none outside none;
+position: absolute;
+}
+.eigenpcb3 .ttr_menu_items .dropdown-menu li:hover .sub-menu 
+{
+visibility: visible;
+}
+.eigenpcb3 .navbar-default .ttr_menu_items.nav   li ul.child > li > a 
+{
+float:left;
+}
 .eigenpcb3 .ttr_slideshow
 {
 display: block;
@@ -2437,6 +2508,10 @@ position:absolute;
 .eigenpcb3 .ttr_slideshow_element_alignment.container 
 {
 width:100%;
+}
+.eigenpcb3 .navbar-default .ttr_vmenu_items.nav   li ul.child > li > a 
+{
+float:left;
 }
 .eigenpcb3 #ttr_content 
 {
@@ -2736,6 +2811,27 @@ display:inline;}
 .eigenpcb1 .ttr_slideshow_logo_text 
 {
 display:none;}
+.eigenpcb1 ul.ttr_menu_items.nav .dropdown-submenu.show > ul 
+{
+display:block;
+visibility:visible;
+}
+.eigenpcb1 .ttr_menu_items .child.dropdown-menu .sub-menu 
+{
+display: none;
+right: 100%;
+ top: 0;
+list-style: none outside none;
+position: absolute;
+}
+.eigenpcb1 .ttr_menu_items .dropdown-menu li:hover .sub-menu 
+{
+visibility: visible;
+}
+.eigenpcb1 .navbar-default .ttr_menu_items.nav   li ul.child > li > a 
+{
+float:left;
+}
 .eigenpcb1 .ttr_slideshow
 {
 display: block;
@@ -2773,6 +2869,10 @@ position:absolute;
 .eigenpcb1 .ttr_slideshow_element_alignment.container 
 {
 width:100%;
+}
+.eigenpcb1 .navbar-default .ttr_vmenu_items.nav   li ul.child > li > a 
+{
+float:left;
 }
 .eigenpcb1 #ttr_content 
 {
@@ -7132,7 +7232,7 @@ text-indent: 0;
 }
 body:not(.ttr_ecommerce)  #ttr_content ul, .editor-styles-wrapper ul
 {
-list-style-image:url(images/1704831390listimg.png);
+list-style-image:url(images/1694150031listimg.png);
 }
 body:not(.ttr_ecommerce)  #ttr_content ul li, .html_content ul li, .html_content ul li p, .ttr_block .html_content ul li p, .html_content ul li h1, .html_content ul li h2, .html_content ul li h3, .html_content ul li h4, .html_content ul li h5, .html_content ul li h6,  footer#ttr_footer .html_content ul li h1,  footer#ttr_footer .html_content ul li h2,  footer#ttr_footer .html_content ul li h3,  footer#ttr_footer .html_content ul li h4,  footer#ttr_footer .html_content ul li h5,  footer#ttr_footer .html_content ul li h6
 {

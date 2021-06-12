@@ -58,7 +58,7 @@ Spanning
 <ul>
 <li id="Slide0" class="ttr_slide" data-slideEffect="None">
 <div class="ttr_slideshow_last">
-<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="Fade" data-easing="linear" data-slide="None" data-duration="0">
+<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="None" data-easing="linear" data-slide="None" data-duration="0">
 </div>
 <div class="slideshowforeground01" data-effect="None" data-begintime="0" data-duration="1" data-easing="linear" data-slide="None">
 </div>
@@ -68,7 +68,7 @@ Spanning
 </li>
 <li id="Slide1" class="ttr_slide" data-slideEffect="None">
 <div class="ttr_slideshow_last">
-<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="Fade" data-easing="linear" data-slide="None" data-duration="0">
+<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="None" data-easing="linear" data-slide="None" data-duration="0">
 </div>
 <div class="slideshowforeground11" data-effect="None" data-begintime="0" data-duration="1" data-easing="linear" data-slide="None">
 </div>
@@ -78,7 +78,7 @@ Spanning
 </li>
 <li id="Slide2" class="ttr_slide" data-slideEffect="None">
 <div class="ttr_slideshow_last">
-<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="Fade" data-easing="linear" data-slide="None" data-duration="0">
+<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="None" data-easing="linear" data-slide="None" data-duration="0">
 </div>
 <div class="slideshowforeground21" data-effect="None" data-begintime="0" data-duration="1" data-easing="linear" data-slide="None">
 </div>
@@ -90,7 +90,7 @@ Spanning
 </li>
 <li id="Slide3" class="ttr_slide" data-slideEffect="None">
 <div class="ttr_slideshow_last">
-<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="Fade" data-easing="linear" data-slide="None" data-duration="0">
+<div class="ttr_slideshow_element_alignment container" data-begintime="0" data-effect="None" data-easing="linear" data-slide="None" data-duration="0">
 </div>
 <div class="slideshowforeground31" data-effect="None" data-begintime="0" data-duration="1" data-easing="linear" data-slide="None">
 </div>
@@ -215,7 +215,7 @@ Spanning
 <div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
 <div class="ttr_spanning_html_column00">
 <div class="margin_collapsetop"></div>
-<div class="html_content"><br /><h2><span>Wat voor spanning heeft een SG90 servo nodig?</span></h2><br /><p style="line-height:1.9em;"><span style="font-size:1.286em;">De meest volledige specificiatie die te vinden was is van de FS90, Dat is een servo die vergelijkbaar is met SG90.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De specificatie is hier te vinden: </span><a href="https://www.addicore.com/FS90-Mini-Servo-p/AD113.htm" class="tt_link" target="_blank"><span style="font-size:1.286em;">https://www.addicore.com/FS90-Mini-Servo-p/AD113.htm</span></a><span style="font-size:1.286em;">. De specificatie staat hiernaast.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De spanning is 4,8 V tot 6 V. Duidelijk is dat de 3 V die de micro:bit kan leveren onvoldoende is.</span></p><p style="line-height:1.9em;"><br style="font-size:1.286em;" /></p><p style="line-height:3.11em;"><span style="font-size:2.143em;color:rgba(105,105,105,1);">Stroom</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De FS90 kan tussen de 700 mA en 800 mA nemen. Dat is de stroom die gevraagd wordt als de servo geblokkeerd wordt (Stall Current). We nemen aan dat dat ook geldt voor de FS90.</span></p><p style="line-height:1.9em;"><a href="https://tech.microbit.org/hardware/powersupply/" class="tt_link" target="_self"><span style="font-size:1.286em;">Hier </span></a><span style="font-size:1.286em;">zien we dat de micro:bit v1 tot 90 mA kan leveren. De micro:bit v2 kan tot 270 mA leveren, maar dit is dus ook nog te weinig voor een servo die flink belast wordt.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Dus de servo's moeten echt op een andere manier gevoed worden.</span></p><p><br /></p><p style="line-height:2.91em;"><span style="font-size:2em;color:rgba(131,131,131,1);">Maar de servo heeft nog steeds verbinding met de micro:bit en er zal dus een stroom lopen</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Dat klopt. Het is daarom goed om te bedenken hoe een servo werkt. De energie om het motortje van de servo te laten bewegen wordt getrokken uit de + draad en die loopt via de - draad weer weg. Daar wordt de grote stroom getrokken. </span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Als de micro:bit de servo wil laten bewegen, dan zal die een serie pulsjes naar de servo sturen. De breedte (tijd) van de pulsjes bepaalt in welke hoek de servo moet komen te staan. De signaaldraad vanaf de micro wordt dus alleen gebruikt voor dataoverdracht, niet voor het leveren van energie. De stroom die daarvoor nodig is, is heel klein.</span></p></div>
+<div class="html_content"><br /><h2><span>Wat voor spanning heeft een SG90 servo nodig?</span></h2><br /><p style="line-height:1.9em;"><span style="font-size:1.286em;">De meest volledige specificiatie die te vinden was is van de FS90, Dat is een servo die vergelijkbaar is met SG90.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De specificatie is hier te vinden: </span><a href="https://www.addicore.com/FS90-Mini-Servo-p/AD113.htm" class="tt_link" target="_blank"><span style="font-size:1.286em;">https://www.addicore.com/FS90-Mini-Servo-p/AD113.htm</span></a><span style="font-size:1.286em;">. De specificatie staat hiernaast.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De spanning is 4,8 V tot 6 V. Duidelijk is dat de 3 V die de micro:bit kan leveren onvoldoende is.</span></p><p style="line-height:1.9em;"><br style="font-size:1.286em;" /></p><p style="line-height:3.11em;"><span style="font-size:2.143em;color:rgba(105,105,105,1);">Stroom</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">De FS90 kan tussen de 700 mA en 800 mA nemen. Dat is de stroom die gevraagd wordt als de servo geblokkeerd wordt (Stall Current). We nemen aan dat dat ook geldt voor de SG90.</span></p><p style="line-height:1.9em;"><a href="https://tech.microbit.org/hardware/powersupply/" class="tt_link" target="_self"><span style="font-size:1.286em;">Hier </span></a><span style="font-size:1.286em;">zien we dat de micro:bit v1 tot 90 mA kan leveren. De micro:bit v2 kan tot 270 mA leveren, maar dit is dus ook nog te weinig voor een servo die flink belast wordt.</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Dus de servo's moeten echt op een andere manier gevoed worden.</span></p><p><br /></p><p style="line-height:2.91em;"><span style="font-size:2em;color:rgba(131,131,131,1);">Maar de servo heeft nog steeds verbinding met de micro:bit en er zal dus een stroom lopen, dus ...</span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Dat klopt. Het is daarom goed om te bedenken hoe een servo werkt. De energie om het motortje van de servo te laten bewegen wordt getrokken uit de + draad en die loopt via de - draad weer weg. Daar wordt de grote stroom getrokken. </span></p><p style="line-height:1.9em;"><span style="font-size:1.286em;">Als de micro:bit de servo wil laten bewegen, dan zal die een serie pulsjes naar de servo sturen. De breedte (tijd) van de pulsjes bepaalt in welke hoek de servo moet komen te staan. De signaaldraad vanaf de micro wordt dus alleen gebruikt voor dataoverdracht, niet voor het leveren van energie. De stroom die daarvoor nodig is, is heel klein.</span></p></div>
 <div class="margin_collapsetop"></div>
 <div style="clear:both;width:0px;"></div>
 </div>
